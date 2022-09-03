@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://matrix2vector.github.io/mysite"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
